@@ -1,12 +1,6 @@
 # dividend
-미국 주식 배당금 정보를 제공하는 API 서비스
-
-## stack
-- Spring boot
-- JPA
-- H2
-- Redis
-- Jsoup
+- 미국 주식 배당금 정보를 제공하는 API 서비스
+- stack : Spring Boot, JPA, H2, Redis, Jsoup
 
 ## API 명세
 - GET - /finance/dividend/{companyName}
